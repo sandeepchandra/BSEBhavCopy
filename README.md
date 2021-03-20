@@ -13,3 +13,16 @@ In case if the data is not present it will retrive it from the sqlite db and sto
 And then the resulted data is provided back to you in the form of tabular format.
 You also have an option to download the tabular data into csv file.
 
+
+To run the Django Web App need to use below commands.
+
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+
+To Go for the WebPage need to go to below path.
+
+http://127.0.0.1:8000/Equity/
+
+
