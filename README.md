@@ -16,10 +16,10 @@ You also have an option to download the tabular data into csv file.
 
 To run the Django Web App need to use below commands.
 
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+pip install -r requirements.txt   
+python manage.py makemigrations   
+python manage.py migrate    
+python manage.py runserver    
 
 To Go for the WebPage need to go to below path.
 
